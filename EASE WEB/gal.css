@@ -1,0 +1,72 @@
+p{
+    padding: 0;
+    margin: 0;
+    font-size: small;
+    float: right;
+}
+.div{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.CANONE{
+    float: left;
+    width: 25%;
+}
+.img{
+    margin-top: 50px;
+    margin-left: 25%;
+
+
+
+}
+.par{
+    padding: 100px;
+    margin: 50px;
+    float: left;
+    width: 27%;
+}
+.div{
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.konto{
+    float: left;
+    width: 25%;
+}
+.img1{
+    margin-top: 50px;
+    margin-left: 24%;
+}
+.pa{
+    padding: 98px;
+    margin: 60px;
+    float: left;
+  
+}
+.water{
+    float: right;
+    width: 22%;
+}
+.img2{
+    margin: 60px;
+    margin-right: 23%;
+}
+.wa{
+    padding: 95px;
+    margin: 55px;
+    float: right;
+}
+.img3{
+margin:70px;
+margin-left: 25%;
+}
+.po{
+padding:87px ;
+margin-left: 25px;
+float: left;
+}
+.op{
+    float: left;
+    width: 25%;
+}
+
